@@ -23,11 +23,8 @@
 }
 
 .header-menu a {
-  font-family: "Poppins";
-  font-weight: 400;
   padding: 1rem 0px;
   display: inline-block; /* Pra não desestruturar quando diminuir a tela */
-  font-size: 1.125rem;
   position: relative;
 }
 

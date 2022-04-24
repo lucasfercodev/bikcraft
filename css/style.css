@@ -1,10 +1,14 @@
 @import "./global/header.css";
-@import "./utilidades/tipografia.css";
 @import "./global/footer.css";
-@import "./utilidades/cores.css";
 @import "./global/global.css";
+
+
 /* componentes utilitários */
 @import "./utilidades/componentes.css";
+@import "./utilidades/cores.css";
+@import "./utilidades/tipografia.css";
+
+
 /* página home */
 @import "./home/introducao.css";
 @import "./home/tecnologia.css";
@@ -16,3 +20,6 @@
 
 /* seguros */
 @import "./seguros/seguros.css";
+
+/* termos */
+@import "./termos/termos.css";

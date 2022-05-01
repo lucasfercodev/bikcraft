@@ -7,6 +7,7 @@
 @import "./utilidades/componentes.css";
 @import "./utilidades/cores.css";
 @import "./utilidades/tipografia.css";
+@import "./utilidades/formulario.css";
 
 /* página home */
 @import "./home/introducao.css";
@@ -29,3 +30,7 @@
 
 /* termos */
 @import "./termos/termos.css";
+
+/* Contato */
+@import "./contato/contato.css";
+@import "./contato/lojas.css";

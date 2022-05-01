@@ -1,13 +1,12 @@
+/* Componentes globais */
 @import "./global/header.css";
 @import "./global/footer.css";
 @import "./global/global.css";
-
 
 /* componentes utilitários */
 @import "./utilidades/componentes.css";
 @import "./utilidades/cores.css";
 @import "./utilidades/tipografia.css";
-
 
 /* página home */
 @import "./home/introducao.css";
